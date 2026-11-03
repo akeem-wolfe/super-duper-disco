@@ -1,0 +1,40 @@
+STRINGTABLE camera_array_tool
+{
+    camera_array_tool "Camera Array Tool";
+    
+    ARRAY_PATTERN "Array Pattern";
+    CAMERA_COUNT "Camera Count";
+    RADIUS "Radius";
+    HEIGHT "Height";
+    GRID_SIZE_X "Grid Size X";
+    GRID_SIZE_Y "Grid Size Y";
+    DIRECTION "Direction";
+    TARGET_OBJECT "Target Object";
+    FOCAL_LENGTH "Focal Length";
+    SYNC_FOCAL_LENGTH "Sync Focal Length";
+    CREATE_TAKES "Create Takes";
+    SHOW_PREVIEW "Show Preview";
+    DISTRIBUTION_METHOD "Distribution Method";
+    BATCH_RENDER_ENABLED "Enable Batch Render";
+    BATCH_RENDER_PATH "Batch Render Output Path";
+
+    CREATE_ARRAY "Create Array";
+    EXPORT_COLMAP "Export COLMAP";
+    CLEAR_CAMERAS "Clear Cameras";
+    BATCH_RENDER "Batch Render All Cameras";
+    
+    PATTERN_VERTICES "From Vertices";
+    PATTERN_SPHERE "Sphere";
+    PATTERN_CYLINDER "Cylinder";
+    PATTERN_GRID "Grid";
+    
+    DIR_INWARD "Inward";
+    DIR_OUTWARD "Outward";
+    DIR_TANGENTIAL "Tangential";
+    DIR_CUSTOM "Custom";
+
+    DIST_GOLDEN_SPIRAL "Golden Spiral";
+    DIST_FIBONACCI "Fibonacci Sphere";
+    DIST_HALTON "Halton Sequence";
+    DIST_POISSON "Poisson Disk";
+}
